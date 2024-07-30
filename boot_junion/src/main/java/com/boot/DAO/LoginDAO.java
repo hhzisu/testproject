@@ -23,4 +23,6 @@ public interface LoginDAO {
 	
 	public void resetPWI(HashMap<String, String> param);
 	public void resetPWC(HashMap<String, String> param);
+	
+//	깃 테스트야
 }
